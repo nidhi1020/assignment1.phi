@@ -1,0 +1,13 @@
+.resume-btn {
+    background-color: aqua;
+    border: none;
+  }
+  
+.resume-btn:hover {
+    background-color: aqua; 
+    color: white;
+}
+.intro{
+    color: aqua;
+    size: 10px;
+}
